@@ -44,3 +44,16 @@ button {
     cursor: pointer;
 }
 
+.number03 {
+    margin-top: 20px;
+    background-color: darkgray;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.number04 {
+    margin-top: 20px;
+    background-color: darkgray;
+    border-radius: 10px;
+    padding: 10px;
+}
